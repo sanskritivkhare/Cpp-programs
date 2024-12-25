@@ -1,0 +1,23 @@
+Output using cout (pg.:15)
+
+#include <iostream>
+using namespace std;
+
+int main()
+{
+  char str[]="hello world";
+  int integer=10;
+  cout<<"C++ language"<<endl;
+  cout<<str<<endl;
+  cout<<15<<endl;
+  cout<<integer<<endl;
+  cout<<"Integer"<<endl;
+  return 0;
+}
+
+Output:
+C++ language
+hello world
+15
+10
+Integer
